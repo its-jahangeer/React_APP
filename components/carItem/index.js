@@ -14,7 +14,7 @@ const carItem = (props)=>{
           <Text style={styles.title}>Model S</Text>
           <Text style={styles.subtitle}>Starting at $69,420</Text>
         </View>
-        <StyledButton/>
+        <StyledButton type="secondary"/>
         </View>
     );
 };
